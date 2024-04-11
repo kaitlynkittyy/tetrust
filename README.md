@@ -1,2 +1,2 @@
 # tetrust
-rust tetris that ill probbaly never finish
+rust Tetris that ill probably never finish
